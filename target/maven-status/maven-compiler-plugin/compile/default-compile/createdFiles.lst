@@ -1,0 +1,5 @@
+com\funnyboyroks\DiscordIntegration\discord\Bot.class
+com\funnyboyroks\DiscordIntegration\Listeners.class
+com\funnyboyroks\DiscordIntegration\discord\BotListeners.class
+com\funnyboyroks\DiscordIntegration\discord\BotUtils.class
+com\funnyboyroks\DiscordIntegration\DiscordIntegration.class

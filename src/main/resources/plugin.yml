@@ -1,0 +1,7 @@
+name: Discord-Integration
+version: ${project.version}
+main: com.funnyboyroks.DiscordIntegration.DiscordIntegration
+api-version: 1.16
+prefix: Discord
+authors: [funnyboy_roks]
+description: A simple plugin that integrates a Discord channel with a Spigot Minecraft Server
